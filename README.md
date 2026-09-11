@@ -1,2 +1,2 @@
-# kwillson222.github.io
-Keith Willson's data analytics portfolio including projects, write-ups and code samples.
+# Keith Willson's Data Projects
+Data analyst with a background in quantitative psychology and six years running admissions and operations for a K-8 school. After discovering my passion for analytics through building an admissions tracker from scratch in Google Sheets, I went back for an M.S. in Data Analytics to learn how to garner insights from bigger data. This is a collection of my analytics projects including my study on first-year student retention.
